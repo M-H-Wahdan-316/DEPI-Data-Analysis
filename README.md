@@ -1,4 +1,4 @@
-# DEPI-Data-Analysis
+# Manufacturing-Line-Productivity
 
 This proposal will provide the details about our project:
 
